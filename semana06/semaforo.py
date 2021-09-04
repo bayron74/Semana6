@@ -4,4 +4,4 @@ if semaforo == "verde":
     print ("Cruzar la calle")
 
 else:
-    print("Esperar")
+    print("Esperar...")
